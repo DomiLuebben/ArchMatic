@@ -180,6 +180,7 @@ PKGS=(
 'nano'
 'neofetch'
 'networkmanager'
+'nextcloud-client'
 'ntfs-3g'
 'obs-studio'
 'okular'
