@@ -24,7 +24,7 @@ ln -s "$HOME/zsh/.zshrc" $HOME/.zshrc
 PKGS=(
 'autojump'
 'awesome-terminal-fonts'
-'brave-bin' # Brave Browser
+'google-chrome' # Chrome Browser
 'dxvk-bin' # DXVK DirectX to Vulcan
 'github-desktop-bin' # Github Desktop sync
 'lightly-git'
@@ -39,6 +39,7 @@ PKGS=(
 'noto-fonts-emoji'
 'papirus-icon-theme'
 'sddm-nordic-theme-git'
+'spotify' # Music streaming
 'ocs-url' # install packages from websites
 'timeshift-bin'
 'ttf-droid'
