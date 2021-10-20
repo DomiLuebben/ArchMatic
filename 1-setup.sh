@@ -227,6 +227,7 @@ PKGS=(
 'terminus-font'
 'texinfo'
 'traceroute'
+'thunderbird' #Email 
 'ufw'
 'unrar'
 'unzip'
