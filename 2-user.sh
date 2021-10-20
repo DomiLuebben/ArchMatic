@@ -37,6 +37,7 @@ PKGS=(
 'nordic-kde-git'
 'nordic-theme'
 'noto-fonts-emoji'
+'pamac-flatpak' #Pamac with AUR and Flatpak Support
 'papirus-icon-theme'
 'sddm-nordic-theme-git'
 'spotify' # Music streaming
