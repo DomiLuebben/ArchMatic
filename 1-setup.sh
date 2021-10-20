@@ -43,7 +43,7 @@ echo "Changing the compression settings for "$nc" cores."
 sudo sed -i 's/COMPRESSXZ=(xz -c -z -)/COMPRESSXZ=(xz -c -T $nc -z -)/g' /etc/makepkg.conf
 
 echo "-------------------------------------------------"
-echo "       Setup Language to US and set locale       "
+echo "       Setup Language to de_DE and set locale       "
 echo "-------------------------------------------------"
 sed -i 's/^#de_DE.UTF-8 UTF-8/de_DE.UTF-8 UTF-8/' /etc/locale.gen
 locale-gen
