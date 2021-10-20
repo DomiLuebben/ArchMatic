@@ -167,6 +167,7 @@ PKGS=(
 'libksysguard'
 'libnewt'
 'libtool'
+'libreoffice-fresh' # Office Suite
 'linux'
 'linux-lts'
 'linux-firmware'
@@ -181,6 +182,7 @@ PKGS=(
 'neofetch'
 'networkmanager'
 'ntfs-3g'
+'obs-studio'
 'okular'
 'openbsd-netcat'
 'openssh'
@@ -233,6 +235,7 @@ PKGS=(
 'vim'
 'virt-manager'
 'virt-viewer'
+'vlc'
 'wget'
 'which'
 'wine-gecko'
